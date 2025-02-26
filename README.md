@@ -1,4 +1,4 @@
-# Dry-Bean-Classification
+# Dry Bean Classification
 Capstone Project based on Dry Bean Classification using Machine Learning 
 
 The Dry Bean Classification project explores the application of machine learning techniques to classify different types of dry beans based on various shape and texture features. Using the Dry Bean Dataset from the UCI Machine Learning Repository, we compare multiple classification algorithms to determine the most effective model.
